@@ -1,4 +1,4 @@
-# <a href=" https://akash6297.github.io/Cukiss/index.html">E-Commerce Website with FAQ Bot Cukiss</a>
+# <a href=" https://akash6297.net/Cukiss/index.html">E-Commerce Website with FAQ Bot Cukiss</a>
 
 This is 10 Page E-commerce Front End website design
 
