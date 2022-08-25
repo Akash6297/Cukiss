@@ -1,7 +1,7 @@
 # Microsoft-Future-Ready-Talent
 
 # <a href="https://victorious-pebble-0e744b010.1.azurestaticapps.net">Cukiss</a>
-Azure Deployment Link: https://red-pond-0f5f1c110.1.azurestaticapps.net <br>
+Azure Deployment Link: https://victorious-pebble-0e744b010.1.azurestaticapps.net <br>
 GitHub Pages Link:  https://github.com/Akash6297/Cukiss <br>
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
