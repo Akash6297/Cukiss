@@ -1,4 +1,4 @@
-# <a href="https://akash6297.github.io/cukiss/">"Cukiss" Website using Microsoft Azure Technologies</a>
+# <a href="https://victorious-pebble-0e744b010.1.azurestaticapps.net">Cukiss</a>
 This is 10 Page E-commerce Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
