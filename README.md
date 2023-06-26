@@ -1,9 +1,5 @@
 # Microsoft-Future-Ready-Talent
 
-# <a href="https://akash6297.github.io/Cukiss/">Cukiss</a>
-Azure Deployment Link: https://akash6297.github.io/Cukiss/ <br>
-GitHub Pages Link:  https://github.com/Akash6297/Cukiss <br>
-Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
